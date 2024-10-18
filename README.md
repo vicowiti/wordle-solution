@@ -14,6 +14,10 @@ Build a simple web application using Next.js that fetches user data from the ran
 1. Pretty design is not important. UX is.
 2. You can use whatever package you want.
 
+## Technical Specs
+1. Nextjs App Router
+2. Tailwind
+
 ## Get Started
 1. run `npm install`
 2. run `npm run dev`
