@@ -13,6 +13,7 @@ We will be building the game Wordle.
 - Correct Letter & Incorrect Position: Highlight in yellow.
 - Incorrect Letter: Highlight in gray.
 4. The game should reset when the word is guessed correctly or when all attempts are exhausted.
+5. Create an API route that pulls a random word from words.json.
 
 ### 3. User Interface
 1. Build a responsive UI using Tailwind CSS.
